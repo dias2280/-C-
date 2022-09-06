@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658168952 source:c:\users\alunos\desktop\gabriel dias\algoritmos\lista03\exe14for\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

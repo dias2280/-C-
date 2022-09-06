@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657213002 source:c:\users\alunos\desktop\gabriel dias\algoritmos\lista02\exe8_if terminar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

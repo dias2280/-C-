@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1657908594 source:c:\users\alunos\desktop\gabriel dias\algoritmos\lista03\exe8for\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1658347610 source:c:\users\alunos\desktop\gabriel dias\geral\algoritmos\lista03\exe8for_terminar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

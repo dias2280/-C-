@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1661979556 source:c:\users\alunos\desktop\cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1662151208 source:c:\users\alunos\desktop\cinema em numeros-20220902t190109z-001\cinema em numeros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1662405612 source:c:\users\alunos\desktop\cinema em numeros-20220905t191817z-001\cinema em numeros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1662407475 source:c:\users\alunos\desktop\cinema\cinema em numeros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+

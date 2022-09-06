@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661276206 source:c:\users\alunos\documents\gabriel dias( nao apagar)\geral\algoritmos\struck\strut2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1661276421 source:c:\users\alunos\documents\gabriel dias( nao apagar)\geral\algoritmos\struck\cadastrocliente\estudoes-c-\cadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
